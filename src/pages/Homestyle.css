@@ -1,0 +1,111 @@
+.homebanner{
+    width: 567px;
+     padding-top: 330px;
+}
+.maintxt{
+     color: #292F36;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 85px;
+font-style: normal;
+font-weight: 400;
+line-height: 106.25px; /*125%; */  
+width: 567px;
+}
+.subtxt{
+     color: #4D5053;
+font-family: Jost;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 33px */
+letter-spacing: 0.22px;
+width: 553px;
+}
+.main{
+     background-image: url("./homeimages/Photo.png");
+     height: 977px;
+     border-bottom-left-radius: 225px;
+}
+.buttonstyle{
+     width: 219.141px;
+     height: 75px;
+     border-radius: 18px;
+background: #292F36;
+/* box-shadow: 0px 10px 20px 0px rgba(192, 192, 192, 0.35); */
+
+
+/* display: flex; */
+width: 219.141px;
+padding: 26px 48px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 10px;
+}
+.buttontxt{
+     color: #FFF;
+text-align: center;
+font-family: Jost;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height:   22.5px ;
+letter-spacing: 0.36px;
+display: inline-block;
+padding-right: 5.5px;
+}
+.buttonicon{
+     width: 20.141px;
+height: 15px;
+justify-content: center;
+align-items: center;
+background-image: url("./homeimages/Vector.svg");
+display: inline-block;
+}
+.projecthead{
+     color: #292F36;
+     text-align: center;
+     font-family: DM Serif Display;
+     font-size: 25px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 31.25px ;
+     padding-bottom: 20px;
+}
+.projectbody{
+     color: #4D5053;
+     text-align: center;
+     font-family: Jost;
+     font-size: 22px;
+     font-style: normal;
+     font-weight: 400;
+     line-height:  33px;
+     letter-spacing: 0.22px;
+     height: 99px;
+     padding-bottom: 22px;
+}
+.readmstyle{
+     color: #4D5053;
+text-align: center;
+font-family: Jost;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 125%; /* 22.5px */
+letter-spacing: 0.36px;
+display: inline-block;
+justify-content: center;
+padding-left: 140.93px;
+}
+.arrystyle{
+     background-image: url("./homeimages/Vector.svg"); 
+     width: 20.141px;
+height: 13.177px;
+flex-shrink: 0;
+display: inline-block;
+padding-left: 12px;
+}
+.image2{
+     height: 700px;
+     background-image: url("./homeimages/home2.png"),lightgray 50% / cover no-repeat; 
+}
